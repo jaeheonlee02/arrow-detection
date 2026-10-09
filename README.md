@@ -38,11 +38,11 @@ Python, OpenCV, ROS1을 활용하여 카메라 영상에서 화살표 표지판�
 
 ### Left Arrow
 
-![Left Arrow](images/arrow_left.jpg)
+![Left Arrow](Left_arrow.jpg)
 
 ### Right Arrow
 
-![Right Arrow](images/arrow_right.jpg)
+![Right Arrow](Right_arrow.jpg)
 
 카메라 영상에서 위와 같은 파란색 원형 표지판을 검출하고,
 표지판 내부의 흰색 화살표 형상을 분석하여 방향을 판단합니다.
